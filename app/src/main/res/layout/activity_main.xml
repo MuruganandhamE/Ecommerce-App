@@ -46,14 +46,14 @@
         />
 
     <Button
-        android:id="@+id/main_signin"
+        android:id="@+id/main_signup"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@drawable/inputdesign"
         android:layout_marginRight="15dp"
         android:layout_marginLeft="15dp"
         android:layout_marginBottom="5dp"
-        android:text="Already have an Account? Login"
+        android:text="Join Now"
         android:textColor="@android:color/white"
         android:textAllCaps="false"
         android:textSize="18sp"

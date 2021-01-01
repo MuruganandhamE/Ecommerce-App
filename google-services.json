@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1008131937945",
+    "project_id": "t-shirt-ecommerce-app",
+    "storage_bucket": "t-shirt-ecommerce-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008131937945:android:9633808ad5c8cc6b350a08",
+        "android_client_info": {
+          "package_name": "com.muruga.ecommerceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1008131937945-joj9krer11ml6ld4ctccikm9qkga2t59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.muruga.ecommerceapp",
+            "certificate_hash": "db0605f0896cf6d3c0fad2480886cbd2d639d78a"
+          }
+        },
+        {
+          "client_id": "1008131937945-ufafqsvrkltc919drhuceooco4hsb96q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5mJYzwUkn4_e-y4qWM0BU7sl8pR6bDmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1008131937945-ufafqsvrkltc919drhuceooco4hsb96q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
