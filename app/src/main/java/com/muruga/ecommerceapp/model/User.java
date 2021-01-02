@@ -4,17 +4,31 @@ import java.math.BigInteger;
 
 public class User
 {
-    private int id;
+    private long id;
     private String name;
     private String phonenumber;
     private String password;
 
-    public User(int id,String inputName, String phonenumber, String password)
+    public User()
+    {
+    }
+
+    public User(long id, String inputName, String phonenumber, String password)
     {
         this.id=id;
         this.name=inputName;
         this.phonenumber = phonenumber;
         this.password = password;
+    }
+
+    public long getId()
+    {
+        return id;
+    }
+
+    public void setId(long id)
+    {
+        this.id = id;
     }
 
     public String getName()
