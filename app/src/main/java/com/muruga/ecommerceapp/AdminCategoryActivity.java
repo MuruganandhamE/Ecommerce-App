@@ -19,16 +19,16 @@ public class AdminCategoryActivity extends AppCompatActivity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_admin_category);
 
-        tshirts=findViewById(R.id.t_shirt);
-        sportTshirts=findViewById(R.id.sports_t_shirt);
-        sweathers=findViewById(R.id.sweather);
+        tshirts=findViewById(R.id.tshirts);
+        sportTshirts=findViewById(R.id.sport_tshirts);
+        sweathers=findViewById(R.id.sweathers);
         femaleDresses=findViewById(R.id.female_dresses);
         glasses=findViewById(R.id.glasses);
-        walletsbagspurses=findViewById(R.id.purses_bags);
-        hatscaps=findViewById(R.id.hats);
+        walletsbagspurses=findViewById(R.id.purses_bags_wallets);
+        hatscaps=findViewById(R.id.hats_caps);
         shoes=findViewById(R.id.shoes);
-        headphonesHandFree=findViewById(R.id.headphoness_handfree);
-        laptops=findViewById(R.id.laptops_pc);
+        headphonesHandFree=findViewById(R.id.headphones_handfree);
+        laptops=findViewById(R.id.laptops);
         watches=findViewById(R.id.watches);
         mobilePhones=findViewById(R.id.mobiles);
 
